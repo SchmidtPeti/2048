@@ -1,14 +1,14 @@
 # 2048
 
-TODO: Write a project description
+It' s a very famous app which I do for practising xamarin. The logic which it was made is not the default logic I do this by my own logic.
 
 ## Installation
 
-TODO: Describe the installation process
+You can download from the play store: https://play.google.com/store/apps/details?id=final_2048.final_2048
 
 ## Usage
 
-TODO: Write usage instructions
+Instructions is as same as the orginal game.
 
 ## Contributing
 
